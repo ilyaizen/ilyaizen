@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate self-taught full-stack web develo
 ### [Streak Calendar](https://github.com/ilyaizen/streak-calendar)
 Motivational productivity app based on Jerry Seinfeld's 'Don't Break the Chain' method. Supports multiple calendars, habit tracking, a task timer, and an activity grid. Open-source and evolving! 🌟
 
-### [SongScribe](https://github.com/ilyaizen/songscribe)
+### [SongScribe](https://github.com/ilyaizen/songscribe-next)
 Next.js app that translates song lyrics to Hebrew, leveraging Genius API and Google Translate.
 
 ### [hn-clone (YAHNC)](https://github.com/ilyaizen/hn-clone)
@@ -41,7 +41,7 @@ A Discord bot that shares AI/ML news in my channel, gathering articles tagged as
 
 ## 📫 How to Reach Me
 
-- **Email:** [ilyaizen@example.com](mailto:ilyaizen@example.com)
+- **Email:** [ilyaizen@gmail.com](mailto:ilyaizen@gmail.com)
 - **X/Twitter:** [@ilyaizen](https://twitter.com/ilyaizen)
 - **BlueSky:** [@ilyaizen.bsky.social](https://bsky.app/profile/ilyaizen.bsky.social)
 
