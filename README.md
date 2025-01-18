@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate self-taught full-stack web develo
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, TypeScript, JavaScript
-- **Frameworks:** Svelte, Vue, Next.js, React 
+- **Frameworks:** Svelte, Vue.js, Next.js, React 
 
 ---
 
