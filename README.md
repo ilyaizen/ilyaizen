@@ -1,6 +1,6 @@
 # Hi, שלום, Привет, I'm Ilya Aizenberg 👋
 
-Welcome to my GitHub profile! I'm a passionate self-taught full-stack web developer based in Tel Aviv, blending creativity and technology to build meaningful projects. Always curious and driven, I'm constantly expanding my skillset and diving into new challenges. 🚀
+Welcome to my GitHub profile! I'm a passionate self-taught full-stack web developer based in Tel Aviv, blending creativity and technology to build meaningful projects. Always curious, I'm constantly expanding my skillset and diving into new challenges. 🚀
 
 ---
 
