@@ -1,4 +1,4 @@
-# Hi there, I'm Ilya Aizenberg! 👋
+# Hi, שלום, Привет, I'm Ilya Aizenberg 👋
 
 Welcome to my GitHub profile! I'm a passionate self-taught full-stack web developer based in Tel Aviv, blending creativity and technology to build meaningful projects. Always curious and driven, I'm constantly expanding my skillset and diving into new challenges. 🚀
 
@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm a passionate self-taught full-stack web develo
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks:** React, Next.js, Svelte, Vue
-- **Platforms:** Vercel, GitHub, OpenAI APIs
+- **Languages:** Python, TypeScript, JavaScript
+- **Frameworks:** Svelte, Vue, Next.js, React 
 
 ---
 
@@ -32,13 +31,19 @@ Motivational productivity app based on Jerry Seinfeld's 'Don't Break the Chain' 
 ### [SongScribe](https://github.com/ilyaizen/songscribe)
 Next.js app that translates song lyrics to Hebrew, leveraging Genius API and Google Translate.
 
+### [hn-clone (YAHNC)](https://github.com/ilyaizen/hn-clone)
+A simple web app built with FastAPI that shows the top stories from Hacker News with Open-Graph images. It includes extra features like highlighting trending stories and showing screen-captures from websites.
+
+### [AI News Bot](https://github.com/ilyaizen/ai-news-bot)
+A Discord bot that shares AI/ML news in my channel, gathering articles tagged as AI on Hacker News via histe.com.
+
 ---
 
 ## 📫 How to Reach Me
 
 - **Email:** [ilyaizen@example.com](mailto:ilyaizen@example.com)
 - **X/Twitter:** [@ilyaizen](https://twitter.com/ilyaizen)
-- **BlueSky:** [@ilyaizen](https://bsky.app/profile/ilyaizen.bsky.social)
+- **BlueSky:** [@ilyaizen.bsky.social](https://bsky.app/profile/ilyaizen.bsky.social)
 
 ---
 
