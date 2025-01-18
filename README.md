@@ -44,6 +44,7 @@ A Discord bot that shares AI/ML news in my channel, gathering articles tagged as
 - **Email:** [ilyaizen@gmail.com](mailto:ilyaizen@gmail.com)
 - **X/Twitter:** [@ilyaizen](https://twitter.com/ilyaizen)
 - **BlueSky:** [@ilyaizen.bsky.social](https://bsky.app/profile/ilyaizen.bsky.social)
+- **Reddit:** [u/spunch](https://www.reddit.com/user/spunch/)
 
 ---
 
