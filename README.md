@@ -1,6 +1,6 @@
 # Hi there, I'm Ilya Aizenberg! 👋
 
-Welcome to my GitHub profile! I'm a passionate self-taught developer based in Jerusalem, blending creativity and technology to build meaningful projects. Always curious and driven, I'm constantly expanding my skillset and diving into new challenges. 🚀
+Welcome to my GitHub profile! I'm a passionate self-taught full-stack web developer based in Tel Aviv, blending creativity and technology to build meaningful projects. Always curious and driven, I'm constantly expanding my skillset and diving into new challenges. 🚀
 
 ---
 
@@ -31,15 +31,6 @@ Motivational productivity app based on Jerry Seinfeld's 'Don't Break the Chain' 
 
 ### [SongScribe](https://github.com/ilyaizen/songscribe)
 Next.js app that translates song lyrics to Hebrew, leveraging Genius API and Google Translate.
-
-### [PromptMagic](https://github.com/ilyaizen/promptmagic)
-A tool for crafting and refining AI prompts with tailored suggestions and creativity boosters. Perfect for unleashing your prompt wizardry. ✨
-
----
-
-## 📈 GitHub Stats
-
-![Ilya Aizenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyaizen&show_icons=true&theme=radical)
 
 ---
 
